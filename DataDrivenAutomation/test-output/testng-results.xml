@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12999" started-at="2018-01-13T05:57:33Z" finished-at="2018-01-13T05:57:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12999" started-at="2018-01-13T05:57:33Z" finished-at="2018-01-13T05:57:46Z">
+      <class name="com.hcl.testcases.TC_001_Login_Valid_Credentials">
+        <test-method status="PASS" signature="genReport()[pri:0, instance:com.hcl.testcases.TC_001_Login_Valid_Credentials@5594a1b5]" name="genReport" is-config="true" duration-ms="706" started-at="2018-01-13T11:27:32Z" finished-at="2018-01-13T11:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genReport -->
+        <test-method status="PASS" signature="startDriverObject()[pri:0, instance:com.hcl.testcases.TC_001_Login_Valid_Credentials@5594a1b5]" name="startDriverObject" is-config="true" duration-ms="8440" started-at="2018-01-13T11:27:33Z" finished-at="2018-01-13T11:27:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriverObject -->
+        <test-method status="PASS" signature="tc_001()[pri:0, instance:com.hcl.testcases.TC_001_Login_Valid_Credentials@5594a1b5]" name="tc_001" duration-ms="3421" started-at="2018-01-13T11:27:41Z" finished-at="2018-01-13T11:27:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001 -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.hcl.testcases.TC_001_Login_Valid_Credentials@5594a1b5]" name="closeDriver" is-config="true" duration-ms="1117" started-at="2018-01-13T11:27:45Z" finished-at="2018-01-13T11:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="saveReport()[pri:0, instance:com.hcl.testcases.TC_001_Login_Valid_Credentials@5594a1b5]" name="saveReport" is-config="true" duration-ms="669" started-at="2018-01-13T11:27:46Z" finished-at="2018-01-13T11:27:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveReport -->
+      </class> <!-- com.hcl.testcases.TC_001_Login_Valid_Credentials -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
